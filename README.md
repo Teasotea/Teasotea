@@ -9,10 +9,10 @@ I'm NLP/ML/AI Engineer
 ### How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sofishaposhnikova)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sofi16616/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sofishaposhnikova)
 
-
+<!--
 ### GitHub Stats:
 
 <a href="https://github.com/zhao9797">
@@ -20,9 +20,6 @@ I'm NLP/ML/AI Engineer
 </a>
 
 
-
-<!--
- 
 **Teasotea/Teasotea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
