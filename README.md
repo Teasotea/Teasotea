@@ -1,4 +1,4 @@
-### 👋 Hello , I am Sofi ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=Teasotea.homepage) 
+### 👋 Hi!
 
 
 - My interests are Natural Language Processing, Time Series, Deep Learning, Fraud Detection, Adversarial ML, RL, DE, and MLOps
