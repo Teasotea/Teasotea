@@ -52,15 +52,12 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
-[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&logo=Kaggle&style=for-the-badge&color=0A66C2)(https://www.kaggle.com/](https://www.kaggle.com/sofishaposhnikova)
+[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&logo=Kaggle&style=for-the-badge&color=0A66C2)](https://www.kaggle.com/sofishaposhnikova)
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
-[!upwork](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)]
+[!upwork](https://img.shields.io/static/v1?message=Upwork&label=&logo=Upwork&style=for-the-badge&color=0A66C2)](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)]
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
-[![github](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&style=for-the-badge&color=181717&logoColor=white)](https://t.ly/Yhe-)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-
-[![leetcode](https://leetcode.com/sofi16616/)]
+[![leetcode](https://img.shields.io/static/v1?message=Leetcode&label=&logo=Leetcode&style=for-the-badge&color=0A66C2)](https://leetcode.com/sofi16616/)]
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
