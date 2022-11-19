@@ -9,18 +9,15 @@
 
 ### How to reach me: 
 
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
 
-[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&logo=Kaggle&style=for-the-badge&color=0A66C2)](https://www.kaggle.com/sofishaposhnikova)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/sofishaposhnikova)
 
-[![upwork](https://img.shields.io/static/v1?message=Upwork&label=&logo=Upwork&style=for-the-badge&color=0A66C2)](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)(https://www.upwork.com/freelancers/~01a0f3397a94d7da27)
 
-[![leetcode](https://img.shields.io/static/v1?message=Leetcode&label=&logo=Leetcode&style=for-the-badge&color=0A66C2)](https://leetcode.com/sofi16616/)]
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://leetcode.com/sofi16616/)]
 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(sofi16616@gmail.com)
 
 
 
