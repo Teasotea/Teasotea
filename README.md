@@ -1,13 +1,11 @@
-### 👋 Hi!
-
+### Welcome!
 
 - My interests are Natural Language Processing, Time Series, Deep Learning, Fraud Detection, Adversarial ML, RL, DE, and MLOps
 
 - 🔭 I'm currently working as NLP Engineer at Knowledgator Engineering
 - 🌱 I’m currently learning NLP, RL and MLOps
-- 📫 How to reach me: [sofi16616@gmail.com](sofi16616@gmail.com)
 
- 
+
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/zhao9797">
@@ -17,14 +15,12 @@
 
 
 <!--
-<a href="https://github.com/zhao9797/RIFRE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhao9797&repo=RIFRE&theme=tokyonight&show_icons=true" />
-</a>
 
-<a href="https://github.com/thuiar/CRL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thuiar&repo=CRL&theme=tokyonight&show_icons=true" />
-</a>
+Data Analysis, Machine Learning, Deep Learning,
+Natural Language Processing, Computer Vision,
+Reinforcement Learning, Time Series, MLOps
 
+ 
 **Teasotea/Teasotea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,15 +44,22 @@ Here are some ideas to get you started:
 - MLOps tools and practices ⚗️
 - data science competitions 🥇
 
-### Find me:
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/andrii-yerko-9565131aa/)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&style=for-the-badge&color=20BEFF&logo=kaggle&logoColor=white)](https://www.kaggle.com/andrii0yerko)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-[![stackoverflow](https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&style=for-the-badge&color=F58025&logoColor=white)](https://stackoverflow.com/users/13061097/andrii)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-[![github](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&style=for-the-badge&color=181717&logoColor=white)](https://t.ly/Yhe-)
 
 -->
 
+### How to reach me: 
+[![linkedin](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[![kaggle](https://www.kaggle.com/](https://www.kaggle.com/sofishaposhnikova)
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[!upwork](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)]
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[![github](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&style=for-the-badge&color=181717&logoColor=white)](https://t.ly/Yhe-)
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[![leetcode](https://leetcode.com/sofi16616/)]
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
