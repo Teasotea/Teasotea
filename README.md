@@ -2,8 +2,8 @@
 
 I'm NLP/ML/AI Engineer
 
-- Major experience in Natural Language Processing: Named Entity Recognition, Relation Extraction, Question Answering, Natural Language Generation, Text Summarization, Sentiment Analysis, Topic Modelling
-- Interested in: Time Series, Deep Learning, Fraud Detection, Adversarial ML, RL, DE, and MLOps
+- Major experience: Named Entity Recognition, Relation Extraction, Question Answering, Natural Language Generation, Text Summarization, Sentiment Analysis, Topic Modelling
+- On the way of mastering: Time Series, Deep Learning, Fraud Detection, Adversarial ML, RL, DE, CV, and MLOps
 - Enjoy taking part in hackathons and Data Science competitions
 
 ### How to reach me: 
