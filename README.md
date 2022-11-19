@@ -48,10 +48,11 @@ Here are some ideas to get you started:
 -->
 
 ### How to reach me: 
-[![linkedin](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
+
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
-[![kaggle](https://www.kaggle.com/](https://www.kaggle.com/sofishaposhnikova)
+[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&logo=Kaggle&style=for-the-badge&color=0A66C2)(https://www.kaggle.com/](https://www.kaggle.com/sofishaposhnikova)
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 
 [!upwork](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)]
