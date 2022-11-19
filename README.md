@@ -6,6 +6,24 @@
 - 🌱 I’m currently learning NLP, RL and MLOps
 
 
+
+### How to reach me: 
+
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&logo=Kaggle&style=for-the-badge&color=0A66C2)](https://www.kaggle.com/sofishaposhnikova)
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[![upwork](https://img.shields.io/static/v1?message=Upwork&label=&logo=Upwork&style=for-the-badge&color=0A66C2)](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+[![leetcode](https://img.shields.io/static/v1?message=Leetcode&label=&logo=Leetcode&style=for-the-badge&color=0A66C2)](https://leetcode.com/sofi16616/)]
+![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
+
+
+
+
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/zhao9797">
@@ -46,18 +64,3 @@ Here are some ideas to get you started:
 
 
 -->
-
-### How to reach me: 
-
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/sofiia-shaposhnikova-9854931b7)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-
-[![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&logo=Kaggle&style=for-the-badge&color=0A66C2)](https://www.kaggle.com/sofishaposhnikova)
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-
-[!upwork](https://img.shields.io/static/v1?message=Upwork&label=&logo=Upwork&style=for-the-badge&color=0A66C2)](https://www.upwork.com/freelancers/~01a0f3397a94d7da27)]
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-
-[![leetcode](https://img.shields.io/static/v1?message=Leetcode&label=&logo=Leetcode&style=for-the-badge&color=0A66C2)](https://leetcode.com/sofi16616/)]
-![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
-
