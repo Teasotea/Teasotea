@@ -1,4 +1,4 @@
-### Hi there!
+### &#x1f4c8;  Hi there!
 
 I'm NLP/ML/AI Engineer
 
@@ -13,7 +13,7 @@ I'm NLP/ML/AI Engineer
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sofi16616/)
 
 
-## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
+### GitHub Stats:
 
 <a href="https://github.com/zhao9797">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Teasotea&theme=nightowl&show_icons=true" />
