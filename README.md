@@ -6,7 +6,6 @@ I'm NLP/ML/AI Engineer
 
 - Major experience: Language Generation, Named Entity Recognition, Relation Extraction, Question Answering, Text Summarization, Sentiment Analysis, Topic Modelling etc.
 - Currently doing research into reducing hallutinations in LLMs @ WangLab UofT.
-- On the way of mastering: Time Series, Deep Learning, Fraud Detection, Adversarial ML, RL, DE, CV, and MLOps
 - Enjoy taking part in hackathons and Data Science competitions
 
 ### How to reach me: 
