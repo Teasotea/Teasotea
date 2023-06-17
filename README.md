@@ -1,8 +1,11 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 ### &#x1f4c8;  Hi there!
 
 I'm NLP/ML/AI Engineer
 
-- Major experience: Named Entity Recognition, Relation Extraction, Question Answering, Natural Language Generation, Text Summarization, Sentiment Analysis, Topic Modelling
+- Major experience: Language Generation, Named Entity Recognition, Relation Extraction, Question Answering, Text Summarization, Sentiment Analysis, Topic Modelling etc.
+- Currently doing research into reducing hallutinations in LLMs @ WangLab UofT.
 - On the way of mastering: Time Series, Deep Learning, Fraud Detection, Adversarial ML, RL, DE, CV, and MLOps
 - Enjoy taking part in hackathons and Data Science competitions
 
