@@ -29,11 +29,11 @@ I’m a **generalist** and **AI entrepreneur** building [hearify.org](https://he
 **Academic Research:**  
   Former researcher at **WangLab, University of Toronto**, focusing on reducing hallucinations in large language models.  
 
-- **Lecturing & Community Building:**  
+**Lecturing & Community Building:**  
   - Conducted **3 lectures** for students at **KPI** and **KNU** on topics such as **AI, Startups, and Growth Opportunities**.  
   - Former founder and organizer of **ML Papers Club**, where participants discussed cutting-edge AI research. Organized and delivered **15+ lectures** within the community.
 
-- **Traveling & Bouldering:**  
+**Traveling & Bouldering:**  
   - Visited **10 European countries and Canada** in the past 2 years. I enjoy exploring diverse cultures and landscapes.  
   - Passionate about climbing (bouldering), constantly challenging myself with new routes.  
 
