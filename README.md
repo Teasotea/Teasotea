@@ -5,17 +5,17 @@ I’m a **generalist** and **AI entrepreneur** building [hearify.org](https://he
 ---
 
 #### **What I do:**
-- **AI Engineering (4+ years):**  
+- **AI Software Engineering**  
   - Building AI solutions with LLM Agents, Retrieval-Augmented Generation (RAG), Named Entity Recognition (NER), Relation Extraction (RE), LLM Fine-tuning, Data Science, and Statistics.
   - Backend development: Python (FastAPI, Flask), Pydantic, Celery, MongoDB.
   - DevOps basics: Azure/AWS, bash scripting, CI/CD pipelines, nginx/caddy.  
   - I also use low-code tools like Streamlit and Gradio to build interfaces and have a basic understanding of Figma.
 
-- **Management (3+ years):**  
+- **Management**  
   - Experienced in project management and hiring, with **3+ years managing teams** for volunteer IT projects and my startup. Building from scratch and managing teams of up to 20 people .
   - Currently focused on launching **useful & profitable products** for people and businesses.  
 
-- **Data, Product, & Marketing (Moderate experience):**  
+- **Data, Product, & Marketing**  
   - Tools: Amplitude, HotJar, Google Analytics, Microsoft Clarity, Google Search Console.
   - Skills: Customer development, market research, marketing strategy, business development, and sales.
 
@@ -26,13 +26,19 @@ I’m a **generalist** and **AI entrepreneur** building [hearify.org](https://he
   - Finalist at the **NASA Space Apps Challenge 2024** (Top 40 out of 15,000 teams globally). [See our team here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/lazyvarenyky/).
   - Participated in **20+ hackathons over the past 4 years**, often achieving **1st, 2nd, or 3rd place** in these competitions.  
 
-- **Academic Research:**  
+**Academic Research:**  
   Former researcher at **WangLab, University of Toronto**, focusing on reducing hallucinations in large language models.  
 
+- **Lecturing & Community Building:**  
+  - Conducted **3 lectures** for students at **KPI** and **KNU** on topics such as **AI, Startups, and Growth Opportunities**.  
+  - Former founder and organizer of **ML Papers Club**, where participants discussed cutting-edge AI research. Organized and delivered **15+ lectures** within the community.
+
+- **Traveling & Bouldering:**  
+  - Visited **10 European countries and Canada** in the past 2 years. I enjoy exploring diverse cultures and landscapes.  
+  - Passionate about climbing (bouldering), constantly challenging myself with new routes.  
+
+
 ---
-
-I thrive at the intersection of **engineering, entrepreneurship, and creativity**, with a goal to build meaningful AI-driven products that solve real problems. 
-
 
 ### Let’s connect and build something impactful together! 
 
