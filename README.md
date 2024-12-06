@@ -1,4 +1,4 @@
-### 🌟 Hi there!
+### 🔭 Hi there!
 
 I’m a **generalist** and **AI entrepreneur** building [hearify.org](https://hearify.org), and exploring more exciting ideas to launch soon. I’m passionate about using AI to automate marketing tasks, combining my expertise in technology, product management, and marketing to create impactful solutions. 
 
