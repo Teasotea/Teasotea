@@ -6,8 +6,6 @@ Based in Kyiv, I work as a **founder, product manager, and hands-on full-stack A
 
 Currently shipping startups across **AI, education, marketing, and robotics**.
 
----
-
 ## What I build
 
 ### AI Agents & Applied ML
@@ -41,8 +39,6 @@ I work across the full product lifecycle:
 
 Tools: Amplitude, Hotjar, PostHog, Ahrefs, Google Analytics, Microsoft Clarity, Search Console
 
----
-
 ## Founder & Operator
 For the past 3+ years, I’ve been building startups, leading teams, and shipping products from **idea → MVP → validation → monetization**.
 
@@ -54,11 +50,6 @@ I combine:
 
 In practice, this means I can move fast from concept to market, validate with users, and build revenue-oriented products end-to-end.
 
-My current focus is simple:
-
-**build useful AI products that become profitable companies.**
-
----
 
 ## Systems & Workflow
 I’m deeply obsessed with **high-leverage systems for execution**.
@@ -70,7 +61,6 @@ Heavy user of:
 
 I care a lot about building systems that compound speed and clarity.
 
----
 
 ## Selected Highlights
 - **NASA Space Apps Challenge 2024 Finalist** [See our team here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/lazyvarenyky/).
@@ -89,7 +79,6 @@ I care a lot about building systems that compound speed and clarity.
 - **Founder of ML research community**  
   organized 15+ technical lectures and research discussions
 
----
 
 ## Open for Collaboration
 I’m actively interested in:
@@ -100,7 +89,6 @@ I’m actively interested in:
 - robotics conversations
 - speaking, workshops, and mentorship
 
----
 
 ## Beyond Work
 Outside startups and code:
@@ -109,11 +97,9 @@ Outside startups and code:
 - discipline and execution systems
 - into history, biology, maths, and strange facts about how the world works
 
----
 
 **Mission:** building AI products that create real economic and societal leverage.
 
----
 
 ### Let’s connect and build something that matters.
 
