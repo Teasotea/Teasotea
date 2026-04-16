@@ -1,46 +1,121 @@
-### 🔭 Hi there!
+# Sofi | Founder, AI Agent Engineer & Product Builder 👋
 
-I’m a **generalist** passionate about using AI to automate marketing tasks, combining my expertise in technology, product management, and marketing to create impactful solutions. 
+I build AI-native products at the intersection of **AI agents, full-stack engineering, product strategy, and growth**.
 
----
+Based in Kyiv, I work as a **founder, product manager, and hands-on full-stack AI engineer**, turning ambitious ideas into products people actually use and pay for.
 
-#### **What I do:**
-- **AI Software Engineering**  
-  - Building AI solutions with LLM Agents, Retrieval-Augmented Generation (RAG), Named Entity Recognition (NER), Relation Extraction (RE), LLM Fine-tuning, Data Science, and Statistics.
-  - Backend development: Python (FastAPI, Flask), Pydantic, Celery, MongoDB.
-  - DevOps basics: Azure/AWS, bash scripting, CI/CD pipelines, nginx/caddy.  
-  - I also use low-code tools like Streamlit and Gradio to build interfaces and have a basic understanding of Figma.
-
-- **Management**  
-  - Experienced in project management and hiring, with **3+ years managing teams** for volunteer IT projects and my startup. Building from scratch and managing teams of up to 20 people .
-  - Currently focused on launching **useful & profitable products** for people and businesses.  
-
-- **Data, Product, & Marketing**  
-  - Tools: Amplitude, HotJar, Google Analytics, Microsoft Clarity, Google Search Console.
-  - Skills: Customer development, market research, marketing strategy, business development, and sales.
+Currently shipping startups across **AI, education, marketing, and robotics**.
 
 ---
 
-#### **Hobbies & Fun Activities:**  
-**Hackathons:**  
-  - Finalist at the **NASA Space Apps Challenge 2024** (Top 40 out of 15,000 teams globally). [See our team here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/lazyvarenyky/).
-  - Participated in **20+ hackathons over the past 4 years**, often achieving **1st, 2nd, or 3rd place** in these competitions.  
+## What I build
 
-**Academic Research:**  
-  Former researcher at **WangLab, University of Toronto**, focusing on reducing hallucinations in large language models.  
+### AI Agents & Applied ML
+- AI agents and multi-step autonomous workflows
+- LLM orchestration and agent systems
+- RAG pipelines and knowledge systems
+- information extraction (NER, relation extraction)
+- hallucination reduction and evaluation systems
+- prompt optimization and fine-tuning
+- experimentation, analytics, and statistics
 
-**Lecturing & Community Building:**  
-  - Conducted **3 lectures** for students at **KPI** and **KNU** on topics such as **AI, Startups, and Growth Opportunities**.  
-  - Former founder and organizer of **ML Papers Club**, where participants discussed cutting-edge AI research. Organized and delivered **15+ lectures** within the community.
+I’m especially focused on building **AI agent products that automate real business workflows**
 
-**Traveling & Bouldering:**  
-  - Visited **10 European countries and Canada** in the past 2 years. I enjoy exploring diverse cultures and landscapes.  
-  - Passionate about climbing (bouldering), constantly challenging myself with new routes.  
+### Full-Stack Product Engineering
+- **Backend:** Python, FastAPI, Django
+- **Frontend:** React, Next.js, Streamlit
+- **Data:** MongoDB, Pydantic
+- **Async systems:** Celery
+- **Infra:** AWS / Azure, CI/CD, bash, nginx, caddy
 
+I build across the full stack, from architecture and APIs to interfaces, dashboards, and product UX.
+
+### Product, Growth & GTM
+I work across the full product lifecycle:
+- customer discovery
+- market research
+- product strategy
+- experimentation and analytics
+- go-to-market systems
+- growth loops and monetization
+
+Tools: Amplitude, Hotjar, PostHog, Ahrefs, Google Analytics, Microsoft Clarity, Search Console
 
 ---
 
-### Let’s connect and build something impactful together! 
+## Founder & Operator
+For the past 3+ years, I’ve been building startups, leading teams, and shipping products from **idea → MVP → validation → monetization**.
+
+I combine:
+- engineering execution
+- product thinking
+- growth systems
+- founder-level decision making
+
+In practice, this means I can move fast from concept to market, validate with users, and build revenue-oriented products end-to-end.
+
+My current focus is simple:
+
+**build useful AI products that become profitable companies.**
+
+---
+
+## Systems & Workflow
+I’m deeply obsessed with **high-leverage systems for execution**.
+
+Heavy user of:
+- **Notion** for strategy, operations, and personal systems
+- **Claude Code** for accelerated engineering workflows
+- AI-first tooling for product and research execution
+
+I care a lot about building systems that compound speed and clarity.
+
+---
+
+## Selected Highlights
+- **NASA Space Apps Challenge 2024 Finalist** [See our team here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/lazyvarenyky/).
+  Top 40 out of 15,000+ teams globally
+
+- **20+ hackathons** in 4 years  
+  multiple top placements
+
+- **Former AI researcher**  
+  University of Toronto  
+  focused on reducing hallucinations in large language models
+
+- **Lecturer & community builder**  
+  lectures on AI, startups, and growth
+
+- **Founder of ML research community**  
+  organized 15+ technical lectures and research discussions
+
+---
+
+## Open for Collaboration
+I’m actively interested in:
+- AI agent product partnerships
+- startup collaborations
+- LLM / agent system consulting
+- product strategy advisory
+- robotics conversations
+- speaking, workshops, and mentorship
+
+---
+
+## Beyond Work
+Outside startups and code:
+- bouldering
+- travel across Europe & North America
+- discipline and execution systems
+- into history, biology, maths, and strange facts about how the world works
+
+---
+
+**Mission:** building AI products that create real economic and societal leverage.
+
+---
+
+### Let’s connect and build something that matters.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiia-shaposhnikova)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sofishaposhnikova)
@@ -60,17 +135,6 @@ I’m a **generalist** passionate about using AI to automate marketing tasks, co
 
 
 **Teasotea/Teasotea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) sofi16616@gmail.com
