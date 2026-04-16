@@ -1,4 +1,4 @@
-# Sofi | Founder, AI Agent Engineer & Product Builder 👋
+# Sofi | Entrepreneur, AI Agent Engineer & Product Builder 👋
 
 I build AI-native products at the intersection of **AI agents, full-stack engineering, product strategy, and growth**.
 
