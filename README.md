@@ -1,12 +1,6 @@
-# Sofi | Entrepreneur, AI Agent Engineer & Product Builder 👋
+# Sofi | Founder, AI Engineer & Product Builder 👋
 
-I build AI-native products at the intersection of **AI agents, full-stack engineering, product strategy, and growth**.
-
-Based in Kyiv, I work as a **founder, product manager, and hands-on full-stack AI engineer**, turning ambitious ideas into products people actually use and pay for.
-
-Currently shipping startups across **AI, education, marketing, and robotics**.
-
-## What I build
+Based in Kyiv, I turn ideas into products people actually use and pay for. Currently shipping startups across **AI, education, marketing, and robotics**.
 
 ### AI Agents & Applied ML
 - AI agents and multi-step autonomous workflows
@@ -17,16 +11,12 @@ Currently shipping startups across **AI, education, marketing, and robotics**.
 - prompt optimization and fine-tuning
 - experimentation, analytics, and statistics
 
-I’m especially focused on building **AI agent products that automate real business workflows**
-
 ### Full-Stack Product Engineering
 - **Backend:** Python, FastAPI, Django
 - **Frontend:** React, Next.js, Streamlit
 - **Data:** MongoDB, Pydantic
 - **Async systems:** Celery
 - **Infra:** AWS / Azure, CI/CD, bash, nginx, caddy
-
-I build across the full stack, from architecture and APIs to interfaces, dashboards, and product UX.
 
 ### Product, Growth & GTM
 I work across the full product lifecycle:
@@ -39,27 +29,11 @@ I work across the full product lifecycle:
 
 Tools: Amplitude, Hotjar, PostHog, Ahrefs, Google Analytics, Microsoft Clarity, Search Console
 
-## Founder & Operator
-For the past 3+ years, I’ve been building startups, leading teams, and shipping products from **idea → MVP → validation → monetization**.
-
-I combine:
-- engineering execution
-- product thinking
-- growth systems
-- founder-level decision making
-
-In practice, this means I can move fast from concept to market, validate with users, and build revenue-oriented products end-to-end.
-
-
-## Systems & Workflow
-I’m deeply obsessed with **high-leverage systems for execution**.
-
+### Systems & Workflow
 Heavy user of:
 - **Notion** for strategy, operations, and personal systems
 - **Claude Code** for accelerated engineering workflows
 - AI-first tooling for product and research execution
-
-I care a lot about building systems that compound speed and clarity.
 
 
 ## Selected Highlights
@@ -96,9 +70,6 @@ Outside startups and code:
 - travel across Europe & North America
 - discipline and execution systems
 - into history, biology, maths, and strange facts about how the world works
-
-
-**Mission:** building AI products that create real economic and societal leverage.
 
 
 ### Let’s connect and build something that matters.
